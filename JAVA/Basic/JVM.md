@@ -1,3 +1,4 @@
+[[java]]
 # JVM for Java Interview
 
 The **JVM (Java Virtual Machine)** is the runtime environment that executes Java **bytecode**. It is a major interview topic because it connects Java code, compilation, memory, garbage collection, and execution.

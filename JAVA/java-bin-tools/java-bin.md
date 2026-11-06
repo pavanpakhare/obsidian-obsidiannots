@@ -1,3 +1,4 @@
+[[java]]
 If you mean **“What is the `bin` directory provided by the JDK?”**, here’s the structure:
 
 ```text

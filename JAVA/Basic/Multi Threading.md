@@ -1,3 +1,5 @@
+[[java]]
+
 # Java Multithreading 
 
 Java multithreading is the ability to execute **multiple tasks concurrently** within a single Java process. It is essential for backend development, Spring Boot, high-performance applications, servers, and concurrent data processing.

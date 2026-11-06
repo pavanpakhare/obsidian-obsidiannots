@@ -1,3 +1,5 @@
+[[java]]
+
 **Normally, no.** A Java application's traditional JVM entry point must be `static`.
 
 ```java

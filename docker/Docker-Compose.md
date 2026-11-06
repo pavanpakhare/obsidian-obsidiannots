@@ -1,3 +1,4 @@
+[[Docker]]
 # Docker Compose 
 
 **Docker Compose** lets you define and run **multiple Docker containers as one application** using a YAML file, usually `compose.yaml`.

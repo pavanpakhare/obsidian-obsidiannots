@@ -1,3 +1,4 @@
+[[DBMS]]
 # SQL Complete Tutorial
 
 SQL (**Structured Query Language**) is the language used to **store, retrieve, modify, and manage data in relational databases** such as PostgreSQL, MySQL, Oracle, and SQL Server.
